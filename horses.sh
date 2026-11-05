@@ -32,7 +32,7 @@ case "$1" in
     ;;
   hook)
     [ "$mode" = on ] || exit 0
-    grep -Eq '"prompt" *: *"/5hour' && exit 0
+    grep -Eq '"prompt" *: *"/(hold-your-horses:)?5hour' && exit 0
     now=$(date +%s)
     used=$(usage) || exit 0
     [ -n "$used" ] || exit 0
