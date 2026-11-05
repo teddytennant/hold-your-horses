@@ -1,0 +1,11 @@
+{
+  "name": "hold-your-horses",
+  "owner": { "name": "Teddy Tennant" },
+  "plugins": [
+    {
+      "name": "hold-your-horses",
+      "description": "Puts the 5 hour usage limit back so you don't burn your week in a day.",
+      "source": "./"
+    }
+  ]
+}
