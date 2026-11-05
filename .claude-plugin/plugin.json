@@ -1,6 +1,6 @@
 {
   "name": "hold-your-horses",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Puts the 5 hour usage limit back so you don't burn your week in a day.",
   "author": { "name": "Teddy Tennant" },
   "homepage": "https://github.com/teddytennant/hold-your-horses",
